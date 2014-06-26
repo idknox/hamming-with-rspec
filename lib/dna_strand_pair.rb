@@ -20,7 +20,7 @@ class DnaStrandPair
     end
     x
   end
-
+end
 
   # def hamming_distance
   #
@@ -32,4 +32,4 @@ class DnaStrandPair
   #
   #   ((0...len).select {|num| @string1[num] != @string2[num]}).length
   # end
-end
+
